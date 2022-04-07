@@ -10,6 +10,8 @@ public class SpringSecurityCustomUserRegistrationApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityCustomUserRegistrationApplication.class, args);
+		
+		//Test Comment
 	}
 
 }
